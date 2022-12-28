@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleSnake</string>
+    <string name="start">Start</string>
+    <string name="snake">Snake</string>
+</resources>
